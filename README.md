@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ML-Graph%20Learning-orange.svg"/>
-  <img src="https://img.shields.io/badge/Tech-Stack-Python%2C%20NetworkX%2C%20scikit-learn-blue.svg"/>
+  <img src="https://img.shields.io/badge/Tech%20Stack-Python%2C%20NetworkX%2C%20scikit--learn-blue.svg"/>
   <img src="https://img.shields.io/badge/Status-Completed-success.svg"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
 </p>
